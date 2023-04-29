@@ -1,0 +1,2 @@
+/*In JavaScript, an array is a collection of values or elements that can be stored in a single variable.
+Arrays are used to store multiple values in a single variable, and they are an important data structure in JavaScript. */
